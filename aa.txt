@@ -7,3 +7,4 @@ master
 hello world hot-fix
 hot-fix
 update
+by git_clone
